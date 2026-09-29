@@ -1,9 +1,9 @@
-# Contributing to ATMS Hardware
+# Contributing to ITMS Hardware
 
-Thank you for your interest in the Advanced Transport Measurement System (ATMS).
+Thank you for your interest in the Integrated Transport Measurement System (ITMS).
 
 ## Important: Hardware Reference Design
-This repository hosts the **official hardware documentation** for the ATMS facility at UGC-DAE CSR, Mumbai Centre. Because this hardware corresponds to specific physical instruments in our laboratory, **we cannot accept Pull Requests that modify the core design files (Schematics, PCB layouts, BOM)** without prior verification.
+This repository hosts the **official hardware documentation** for the ITMS facility at UGC-DAE CSR, Mumbai Centre. Because this hardware corresponds to specific physical instruments in our laboratory, **we cannot accept Pull Requests that modify the core design files (Schematics, PCB layouts, BOM)** without prior verification.
 
 We treat this repository as a **Reference Implementation** rather than a collaborative development project.
 

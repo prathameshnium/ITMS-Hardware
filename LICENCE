@@ -1,6 +1,6 @@
 OPEN SOURCE HARDWARE LICENSE
 -------------------------------------------------------------------------
-Advanced Transport Measurement System (ATMS)
+Integrated Transport Measurement System (ITMS)
 Copyright (c) 2026 UGC-DAE Consortium for Scientific Research, Mumbai Centre
 -------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ ATTRIBUTION INSTRUCTION (ACADEMIC USE)
 If you utilize these designs, data, or methodology in academic research, 
 you constitute "Appropriate Credit" by citing the following publication/repository:
 
-   Deshmukh, P., & Mukherjee, S. (2026). Advanced Transport Measurement System 
+   Deshmukh, P., & Mukherjee, S. (2026). Integrated Transport Measurement System 
    (Supplementary Material) [Data set]. UGC-DAE CSR. 
    https://github.com/prathameshnium/ATMS-Hardware
 

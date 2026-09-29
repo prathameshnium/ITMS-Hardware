@@ -1,4 +1,4 @@
-Advanced Transport Measurement System (ATMS)
+Integrated Transport Measurement System (ITMS)
 ============================================
 
 **Authors:** Prathamesh Deshmukh & Dr. Sudip Mukherjee  

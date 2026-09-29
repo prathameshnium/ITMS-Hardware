@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Advanced Transport Measurement System (ATMS)'
+project = 'Integrated Transport Measurement System (ITMS)'
 copyright = '2026, UGC DAE Consortium for Scientific Research, Mumbai Centre'
 author = 'Prathamesh Deshmukh and Dr. Sudip Mukherjee'
 

@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve the ATMS documentation!
+        Thanks for helping improve the ITMS documentation!
   - type: textarea
     id: description
     attributes:

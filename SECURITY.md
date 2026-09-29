@@ -1,7 +1,7 @@
 # Security & Safety Policy
 
 ## Physical Safety Warning
-The ATMS hardware involves high-voltage instrumentation (>200V) and cryogenic liquids (Liquid Nitrogen/Helium).
+The ITMS hardware involves high-voltage instrumentation (>200V) and cryogenic liquids (Liquid Nitrogen/Helium).
 * **Do not** attempt to reproduce this hardware without proper training in cryogenic handling and electrical safety.
 * **Always** use appropriate Personal Protective Equipment (PPE).
 
