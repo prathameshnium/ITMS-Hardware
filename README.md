@@ -50,7 +50,7 @@ We acknowledge the financial support provided under the **SERB-CRG project grant
 **Copyright © 2026 UGC-DAE Consortium for Scientific Research, Mumbai Centre.**
 
 This project is released as **Open Source Hardware** to facilitate academic reproducibility.
-* **Hardware Designs:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENSE).
+* **Hardware Designs:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENCE).
 * **Documentation:** Licensed under CC BY-SA 4.0.
 
 **Proprietary Notice:** This repository contains **supplementary data** and standard design descriptors. All proprietary institutional files remain the intellectual property of **UGC-DAE CSR, Mumbai Centre**. The content is strictly limited to academic validation metrics and standard operating procedures for open research. No restricted, classified, or export-controlled technical data is hosted here.
@@ -68,8 +68,8 @@ If you utilise this hardware design, assembly protocols, or validation data in y
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{[https://github.com/prathameshnium/ATMS-Hardware](https://github.com/prathameshnium/ATMS-Hardware)}}
+  howpublished = {\url{https://github.com/prathameshnium/ATMS-Hardware}}
 }
 
 ```
-**Contact:** For technical inquiries, please create an [Issue](https://www.google.com/search?q=https://github.com/prathameshnium/ATMS-Hardware/issues) in this repository.
+**Contact:** For technical inquiries, please create an [Issue](https://github.com/prathameshnium/ATMS-Hardware/issues) in this repository.
