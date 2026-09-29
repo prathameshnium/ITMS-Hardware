@@ -36,8 +36,8 @@ The repository is organised into modules corresponding to specific probe designs
 
 | Module Name | Environment | Primary Application | Status |
 | :--- | :--- | :--- | :--- |
-| **[Cryogenic Insert](./modules/cryo_probe)** | Liquid Nitrogen | Low-Noise Transport, Pyroelectric Current | **Active** |
-| **[PPMS Interface](./modules/ppms_insert)** | QD PPMS | Magnetodielectric, Hall Effect | **Active** |
+| **[Cryogenic Insert](https://github.com/prathameshnium/ATMS-Hardware/blob/main/modules/cryo_probe)** | Liquid Nitrogen | Low-Noise Transport, Pyroelectric Current | **Active** |
+| **[PPMS Interface](https://github.com/prathameshnium/ATMS-Hardware/blob/main/modules/ppms_insert)** | QD PPMS | Magnetodielectric, Hall Effect | **Active** |
 
 ---
 
@@ -50,7 +50,7 @@ We acknowledge the financial support provided under the **SERB-CRG project grant
 **Copyright © 2026 UGC-DAE Consortium for Scientific Research, Mumbai Centre.**
 
 This project is released as **Open Source Hardware** to facilitate academic reproducibility.
-* **Hardware Designs:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENCE).
+* **Hardware Designs:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://github.com/prathameshnium/ATMS-Hardware/blob/main/LICENCE).
 * **Documentation:** Licensed under CC BY-SA 4.0.
 
 **Proprietary Notice:** This repository contains **supplementary data** and standard design descriptors. All proprietary institutional files remain the intellectual property of **UGC-DAE CSR, Mumbai Centre**. The content is strictly limited to academic validation metrics and standard operating procedures for open research. No restricted, classified, or export-controlled technical data is hosted here.
